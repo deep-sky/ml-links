@@ -24,6 +24,16 @@
 
 [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention (Paper Explained)](https://www.youtube.com/watch?v=hAooAOFRsYc&ab_channel=YannicKilcher) - [youtube/YannicKilcher]
     
+[Transformers in Pytorch from scratch for NLP Beginners](https://www.hyugen.com/article/transformers-in-pytorch-from-scratch-for-nlp-beginners-113cb366a5) - [hyugen.com]
+
+[PyTorch: Language sequence-to-sequence modeling using the nn.Transformer](https://pytorch.org/tutorials/beginner/transformer_tutorial.html) -[PyTorch]
+
+[How to code The Transformer in Pytorch](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec)- [towardsdatascience.com]
+
+[Tutorial 6: Transformers and Multi-Head Attention](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html) - [uvadlc-notebooks]
+
+[Transformer model implemented with Pytorch](https://pythonrepo.com/repo/minqukanq-transformer-pytorch-python-deep-learning) - [pythonrepo.com]
+    
 [Transformer And Bert Implementation With Huggingface](https://www.youtube.com/playlist?list=PLZoTAELRMXVOTsz2jZl2Oq3ntWPoKRKwv) - [youtube/KrishNaik]
     
 [LSTM Recurrent Neural Network In Depth Intuition](https://www.youtube.com/watch?v=rdkIOM78ZPk&ab_channel=KrishNaik) - [youtube/KrishNaik]
