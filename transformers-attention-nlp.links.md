@@ -4,7 +4,9 @@
 
 [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) [jalammar.github.io]
 
-[Pytorch Transformers from Scratch](https://www.youtube.com/watch?v=U0s0f995w14#&ab_channel=AladdinPersson) - [youtube]
+[Attention Is All You Need](https://www.youtube.com/watch?v=iDulhoQ2pro&ab_channel=YannicKilcher) - [youtube/YannicKilcher]
+
+[Pytorch Transformers from Scratch](https://www.youtube.com/watch?v=U0s0f995w14#&ab_channel=AladdinPersson) - [youtube/AladdinPersson]
 
 [Understanding BERT Transformer](https://medium.com/synapse-dev/understanding-bert-transformer-attention-isnt-all-you-need-5839ebd396db) - [medium.com]
     
@@ -12,23 +14,27 @@
 
 [Illustrated: Self-Attention (Step-by-step guide)](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a) - [towardsdatascience.com]
     
-[Pytorch Seq2Seq with Attention for Machine Translation](https://www.youtube.com/watch?v=sQUqQddQtB4&ab_channel=AladdinPersson) - [youtube]
+[Pytorch Seq2Seq with Attention for Machine Translation](https://www.youtube.com/watch?v=sQUqQddQtB4&ab_channel=AladdinPersson) - [youtube/AladdinPersson]
 
 [Transformers from Scratch in PyTorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51) - [medium.com]
 
-[Deploy ML model to AWS Sagemaker with mlflow and Docker - Step by step](https://www.youtube.com/watch?v=FsoSBsrcx9Q&ab_channel=DataScienceGarage) - [youtube]
+[Deploy ML model to AWS Sagemaker with mlflow and Docker - Step by step](https://www.youtube.com/watch?v=FsoSBsrcx9Q&ab_channel=DataScienceGarage) - [youtube/DataScienceGarage]
 
-[Transformers In-depth Architecture Understanding](https://www.youtube.com/watch?v=SMZQrJ_L1vo&ab_channel=KrishNaik) - [youtube]
-    
-[Transformer And Bert Implementation With Huggingface](https://www.youtube.com/playlist?list=PLZoTAELRMXVOTsz2jZl2Oq3ntWPoKRKwv) - [youtube]
-    
-[LSTM Recurrent Neural Network In Depth Intuition](https://www.youtube.com/watch?v=rdkIOM78ZPk&ab_channel=KrishNaik) - [youtube]
-    
-[Лекция: Архитектуры NLP, Transformer, Bert. (10.04.2020)](https://www.youtube.com/watch?app=desktop&v=UEQ-XDDILls&ab_channel=DeepLearningSchool) - [youtube]
+[Transformers In-depth Architecture Understanding](https://www.youtube.com/watch?v=SMZQrJ_L1vo&ab_channel=KrishNaik) - [youtube/KrishNaik]
 
-[Лекция 21. Архитектура "Transformer" для sequence-to-sequence](https://www.youtube.com/watch?app=desktop&v=ONuRVpJSvfY&ab_channel=ComputerScienceCenter) - [youtube]
+[Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention (Paper Explained)](https://www.youtube.com/watch?v=hAooAOFRsYc&ab_channel=YannicKilcher) - [youtube/YannicKilcher]
+    
+[Transformer And Bert Implementation With Huggingface](https://www.youtube.com/playlist?list=PLZoTAELRMXVOTsz2jZl2Oq3ntWPoKRKwv) - [youtube/KrishNaik]
+    
+[LSTM Recurrent Neural Network In Depth Intuition](https://www.youtube.com/watch?v=rdkIOM78ZPk&ab_channel=KrishNaik) - [youtube/KrishNaik]
+    
+[Лекция: Архитектуры NLP, Transformer, Bert. (10.04.2020)](https://www.youtube.com/watch?app=desktop&v=UEQ-XDDILls&ab_channel=DeepLearningSchool) - [youtube/DeepLearningSchool]
+
+[Лекция 21. Архитектура "Transformer" для sequence-to-sequence](https://www.youtube.com/watch?app=desktop&v=ONuRVpJSvfY&ab_channel=ComputerScienceCenter) - [youtube/ComputerScienceCenter]
 
 [What Does BERT Look At? An Analysis of BERT's Attention](https://arxiv.org/abs/1906.04341) - [arxiv.org]
+
+[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.youtube.com/watch?v=-9evrZnBorM&ab_channel=YannicKilcher) - [youtube/YannicKilcher]
 
 [Multi-task BERT in DeepPavlov](http://docs.deeppavlov.ai/en/master/features/models/multitask_bert.html) - [deeppavlov.ai]
 
@@ -57,3 +63,5 @@
 [Making Transformers Solve Compositional Tasks](https://arxiv.org/abs/2108.04378) - [arxiv.org]
 
 [Multi-Head Attention](https://paperswithcode.com/method/multi-head-attention) - [paperswithcode.com]
+
+[LambdaNetworks: Modeling long-range Interactions without Attention (Paper Explained)](https://www.youtube.com/watch?v=3qxJ2WD8p4w&list=RDCMUCZHmQk67mSJgfCCTn7xBfew&index=24&ab_channel=YannicKilcher) - [youtube/YannicKilcher]
