@@ -30,6 +30,10 @@
 
 [What Does BERT Look At? An Analysis of BERT's Attention](https://arxiv.org/abs/1906.04341) - [arxiv.org]
 
+[Multi-task BERT in DeepPavlov](http://docs.deeppavlov.ai/en/master/features/models/multitask_bert.html) - [deeppavlov.ai]
+
+[DeepPavlov_BERT_transfer_learning.ipynb](https://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/Tutorial_2_DeepPavlov_BERT_transfer_learning.ipynb) - [Google Colab]
+
 [Sentiment Analysis with BERT using Transformers by Hugging Face , PyTorch and Python Tutorial](https://www.youtube.com/playlist?list=PLEJK-H61XlwxpfpVzt3oDLQ8vr1XiEhev) - [youtube]
 
 [Self-attention in NLP](https://www.geeksforgeeks.org/self-attention-in-nlp/) - [geeksforgeeks.org]
