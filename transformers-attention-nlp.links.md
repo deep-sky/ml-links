@@ -6,36 +6,18 @@
 
 [Attention Is All You Need](https://www.youtube.com/watch?v=iDulhoQ2pro&ab_channel=YannicKilcher) - [youtube/YannicKilcher]
 
-[Pytorch Transformers from Scratch](https://www.youtube.com/watch?v=U0s0f995w14#&ab_channel=AladdinPersson) - [youtube/AladdinPersson]
-
 [Understanding BERT Transformer](https://medium.com/synapse-dev/understanding-bert-transformer-attention-isnt-all-you-need-5839ebd396db) - [medium.com]
     
 [LSTM is dead. Long Live Transformers!](https://www.youtube.com/watch?v=S27pHKBEp30) - [youtube]
 
 [Illustrated: Self-Attention (Step-by-step guide)](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a) - [towardsdatascience.com]
     
-[Pytorch Seq2Seq with Attention for Machine Translation](https://www.youtube.com/watch?v=sQUqQddQtB4&ab_channel=AladdinPersson) - [youtube/AladdinPersson]
-
-[Transformers from Scratch in PyTorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51) - [medium.com]
-
 [Deploy ML model to AWS Sagemaker with mlflow and Docker - Step by step](https://www.youtube.com/watch?v=FsoSBsrcx9Q&ab_channel=DataScienceGarage) - [youtube/DataScienceGarage]
 
 [Transformers In-depth Architecture Understanding](https://www.youtube.com/watch?v=SMZQrJ_L1vo&ab_channel=KrishNaik) - [youtube/KrishNaik]
 
 [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention (Paper Explained)](https://www.youtube.com/watch?v=hAooAOFRsYc&ab_channel=YannicKilcher) - [youtube/YannicKilcher]
-    
-[Transformers in Pytorch from scratch for NLP Beginners](https://www.hyugen.com/article/transformers-in-pytorch-from-scratch-for-nlp-beginners-113cb366a5) - [hyugen.com]
-
-[PyTorch: Language sequence-to-sequence modeling using the nn.Transformer](https://pytorch.org/tutorials/beginner/transformer_tutorial.html) -[PyTorch]
-
-[How to code The Transformer in Pytorch](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec)- [towardsdatascience.com]
-
-[Tutorial 6: Transformers and Multi-Head Attention](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html) - [uvadlc-notebooks]
-
-[Transformer model implemented with Pytorch](https://pythonrepo.com/repo/minqukanq-transformer-pytorch-python-deep-learning) - [pythonrepo.com]
-    
-[Transformer And Bert Implementation With Huggingface](https://www.youtube.com/playlist?list=PLZoTAELRMXVOTsz2jZl2Oq3ntWPoKRKwv) - [youtube/KrishNaik]
-    
+     
 [LSTM Recurrent Neural Network In Depth Intuition](https://www.youtube.com/watch?v=rdkIOM78ZPk&ab_channel=KrishNaik) - [youtube/KrishNaik]
     
 [Лекция: Архитектуры NLP, Transformer, Bert. (10.04.2020)](https://www.youtube.com/watch?app=desktop&v=UEQ-XDDILls&ab_channel=DeepLearningSchool) - [youtube/DeepLearningSchool]
@@ -75,3 +57,23 @@
 [Multi-Head Attention](https://paperswithcode.com/method/multi-head-attention) - [paperswithcode.com]
 
 [LambdaNetworks: Modeling long-range Interactions without Attention (Paper Explained)](https://www.youtube.com/watch?v=3qxJ2WD8p4w&list=RDCMUCZHmQk67mSJgfCCTn7xBfew&index=24&ab_channel=YannicKilcher) - [youtube/YannicKilcher]
+
+### Implementations
+
+[Pytorch Transformers from Scratch](https://www.youtube.com/watch?v=U0s0f995w14#&ab_channel=AladdinPersson) - [youtube/AladdinPersson]
+
+[Pytorch Seq2Seq with Attention for Machine Translation](https://www.youtube.com/watch?v=sQUqQddQtB4&ab_channel=AladdinPersson) - [youtube/AladdinPersson]
+
+[Transformers from Scratch in PyTorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51) - [medium.com]
+
+[Transformers in Pytorch from scratch for NLP Beginners](https://www.hyugen.com/article/transformers-in-pytorch-from-scratch-for-nlp-beginners-113cb366a5) - [hyugen.com]
+
+[PyTorch: Language sequence-to-sequence modeling using the nn.Transformer](https://pytorch.org/tutorials/beginner/transformer_tutorial.html) -[PyTorch]
+
+[How to code The Transformer in Pytorch](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec)- [towardsdatascience.com]
+
+[Tutorial 6: Transformers and Multi-Head Attention](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html) - [uvadlc-notebooks]
+
+[Transformer model implemented with Pytorch](https://pythonrepo.com/repo/minqukanq-transformer-pytorch-python-deep-learning) - [pythonrepo.com]
+    
+[Transformer And Bert Implementation With Huggingface](https://www.youtube.com/playlist?list=PLZoTAELRMXVOTsz2jZl2Oq3ntWPoKRKwv) - [youtube/KrishNaik]
